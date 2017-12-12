@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ceshiyong
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("第二分之");
-        }
     }
 }
